@@ -1,4 +1,4 @@
-# Designer-Inspired Résumé Templates
+# Designer Résumés
 Open-source templates for résumés inspired by legendary designers' styles. [WIP]
 
 ## The Vignelli  
